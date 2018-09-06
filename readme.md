@@ -2,7 +2,7 @@
 
 This script is no longer supported or developed.
 
-He became part of the browser extension and use in [Linkedin Boost](https://github.com/tamert/linkedin-search-bot).
+He became part of the browser extension and use in [Linkedin Search Bot](https://github.com/tamert/linkedin-search-bot).
 
 
 # linkedin-bot
